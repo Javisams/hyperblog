@@ -4,6 +4,11 @@ Esto es un título centrado
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
+corrigamos esta linea a la investigacion.....
+1
+1
+12
+.... fin del cambio..
 
 Y esto de arriba es la foto de unas Suricatas.
 
