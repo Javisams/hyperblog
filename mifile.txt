@@ -10,7 +10,8 @@ corrigamos esta linea a la investigacion.....
 12 add mas item
 2
 3
-4
+4 se agrega mas informacion a la linea....
+8989
 
 .... fin del cambio..
 
